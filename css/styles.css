@@ -2,13 +2,23 @@
 body {
   background-color: #F9F7F7;
 }
-hr {
+.hr3 {
   border: none;
   border-top-style:dotted;
   border-color:#DBE2EF;
   border-width :5px;
   width: 5%;
 }
+.hr2 {
+    border: none;
+    border-top-style:dotted;
+    border-color:#DBE2EF;
+    border-width :5px;
+    width: 3%;
+  }
+/* .hr1{
+    border: 10px;
+} */
 img {
   height: 200px
     }
@@ -31,6 +41,15 @@ li{
     color: #3c4043;
 }
 
+.AdditionalInfo  {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
 *{
     font-family:arial,sans-serif;
 }
+
+
